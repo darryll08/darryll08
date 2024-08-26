@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Darryl Sitia
-🔭 I’m currently studyin on Airlangga University
+🔭 I’m currently studying on Airlangga University
 🌱 I’m currently learning C++, HTML, JavaScript, Python
 😄 Pronouns: He/Him
 📫 How to reach me: darryl.sitia88@gmail.com
